@@ -1,0 +1,27 @@
+{
+    "name": "youngershen/laravel-wechat-sdk",
+    "keywords": "wechat",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git@github.com:youngershen/laravel-wechat-sdk.git"
+        }
+    ],
+    "description": "a wechat sdk to laravel",
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://github.com/youngershen/laravel-wechat-sdk",
+    "authors": [
+        {
+            "name": "Younger Shen",
+            "email": "younger.x.shen@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.9"
+    },
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": { "Wechat\\": "src/" }
+    }
+}
