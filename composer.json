@@ -1,6 +1,6 @@
 {
     "name": "youngershen/laravel-wechat-sdk",
-    "keywords": "wechat",
+    "keywords": ["wechat", "sdk"],
     "repositories": [
         {
             "type": "git",
